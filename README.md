@@ -114,20 +114,6 @@ Cara paling rapi untuk menjalankan keseluruhan kumpulan pengujian:
 1. Buka folder project explorer di sebelah kiri.
 2. Untuk menguji UI: Klik kanan pada `file testng-ui.xml` -> Pilih Run.
 3. Untuk menguji API: Klik kanan pada `file testng-api.xml` -> Pilih Run.
-
-### Opsi 2: Lewat Terminal (Pake Gradle)
-Kalau mau nge-run semua test sekaligus lewat file konfigurasi XML:
-
-```bash
-# Menjalankan keseluruhan test (API & UI)
-./gradlew clean test
-
-# Menjalankan spesifik Suite API
-./gradlew test -DsuiteXmlFile=src/test/resources/suites/Regression_API_Test.xml
-
-# Menjalankan spesifik Suite UI
-./gradlew test -DsuiteXmlFile=src/test/resources/suites/Regression_UI_Test.xml
-```
 ---
 ## 🧠 Fitur Utama & Keunggulan Framework
 
