@@ -1,6 +1,6 @@
 # 🚀 Take Home Test - Github Gist & Reqres API
 
-Proyek ini merupakan framework *automation testing* **[Github Gist](https://gist.github.com/)** komprehensif yang mencakup dua lapisan utama UI *(Frontend)* untuk skenario CRUD pada GitHub Gist dan API *(Backend)* untuk manipulasi data pada **[Reqres](https://reqres.in)**.
+Proyek ini merupakan framework *automation testing*  komprehensif yang mencakup dua lapisan utama UI *(Frontend)* untuk skenario CRUD pada **[Github Gist](https://gist.github.com/)** dan API *(Backend)* untuk manipulasi data pada **[Reqres](https://reqres.in)**.
 
 Proyek ini dikerjakan memenuhi syarat penyaluran kerja **assignment Take Home Test**. Silakan klik link berikut untuk melihat **[QA Report (Documentation)](https://docs.google.com/document/d/1YVM-QQ-tTa0p5GDegRADkjd2U4UePFnBJRrTiTmv1wo/edit?usp=sharing)**.
 
