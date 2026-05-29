@@ -55,7 +55,7 @@ QA-Automation-TakeHomeTest/
 | Edit Existing Gist         |        ✅        |           Menemukan Gist yang baru saja dibuat, menekan tombol edit, dan mengubah isi kodenya.           |
 | Delete Existing Gist       |        ✅        |                 Menghapus Gist secara permanen dan memvalidasi penanganan pop-up alert.                  |
 | See List of Gists          |        ✅        | Memastikan direktori/profil pengguna terbuka dan memvalidasi bahwa Gist yang dihapus sudah tidak muncul. |
-| **Total Skenario:**        | **6 ✅<br/>0 ❌** |                                      **Scope Coverage: Gist CRUD**                                       |
+| **Total Skenario:**        | **5 ✅<br/>0 ❌** |                                      **Scope Coverage: Gist CRUD**                                       |
 
 **API TESTING (Reqres.in)**
 
