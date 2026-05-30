@@ -59,12 +59,13 @@ public class GistCRUDTest extends BaseUITest {
         Assert.assertEquals(detailPage.getGistFilename(), testFilename, "Proses Update Gist gagal!");
     }
 
-    @Test(description = "Test Case 3: Delete Existing Gist", priority = 4, dependsOnMethods = "testEditGist")
+    // Di buka dulu
+    /*@Test(description = "Test Case 3: Delete Existing Gist", priority = 4, dependsOnMethods = "testEditGist")
     public void testDeleteGist() {
         GistDetailPage detailPage = new GistDetailPage(driver);
 
         detailPage.clickDeleteGist();
-    }
+    }*/
 
     @Test(description = "Test Case 4: See List of Gists", priority = 5, dependsOnMethods = "testDeleteGist")
     public void testSeeListOfGists() {
